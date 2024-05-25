@@ -1,2 +1,0 @@
-# datalab
-Data exercise
